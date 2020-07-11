@@ -8,7 +8,6 @@ Unity游戏《人类：一败涂地》的反编译源代码。
 
 ## 声明
 
-***
 
 本项目旨在对《人类：一败涂地》的创新性设计提供帮助，方便开发者进行mod功能研究和开发。本项目版权归[*No Brakes Games*工作室](https://www.nobrakesgames.com/)所有，仅用于技术研究，禁止任何类型的商业用途。《人类：一败涂地》官方严厉打击此类行为，并保留追究法律责任的权利。
 
@@ -18,7 +17,6 @@ Unity游戏《人类：一败涂地》的反编译源代码。
 
 ## 介绍
 
-***
 
 本项目是对《人类：一败涂地》程序中功能核心代码，即Assembly-CSharp.dll库文件的反编译。项目会随着《人类：一败涂地》的更新而更新。项目使用[ILSpy](https://github.com/icsharpcode/ILSpy)反编译工具进行反编译，生成C Sharp项目文件，之后导入Visual Studio IDE中生成解决方案。项目文件中包含了C Sharp项目文件和Visual Studio解决方案文件。如果版本不一致，可以重新生成两个文件，不会影响代码本身。
 
@@ -28,7 +26,6 @@ Unity游戏《人类：一败涂地》的反编译源代码。
 
 ## 构建
 
-***
 
 建议使用Visual Studio进行解决方案构建，生成Assembly-CSharp.dll文件：
 ```
@@ -71,6 +68,5 @@ Unity游戏《人类：一败涂地》的反编译源代码。
 
 ## 贡献
 
-***
 
 [XiaoHuiHui233](https://github.com/XiaoHuiHui233)

@@ -8,7 +8,6 @@ English | [简体中文](/docs/README_cn.md)
 
 ## Declaraction
 
-***
 
 This project aims to provide assistance to the innovative development of the game *Human: Fall Flat*. It also facilitates developers to conduct research and develop modules. The copyright of this project belongs to [*No Brakes Games*](https://www.nobrakesgames.com/). It is only used for technical research and prohibits any type of commercial use. The officials of *Human: Fall Flat* severely crack down on such acts and reserve the right to pursue legal responsibility.
 
@@ -18,7 +17,6 @@ The code of this project follows the GPLv3 open source agreement. But it should 
 
 ## Introduction
 
-***
 
 This project is a decompilation of the core function code in *Human: Fall Flat* program, namely the Assembly-CSharp.dll. The project will be updated with the update of *Human: Fall Flat*. The project uses [ILSpy](https://github.com/icsharpcode/ILSpy) to decompile and build C sharp project files. Then import into Visual Studio IDE to make solution files. The files of this project include a C Sharp project file and a Visual Studio solution file. If these two files' version are inconsistent, they can be regenerated without affecting the code.
 
@@ -28,7 +26,6 @@ This project contains two branches. The master branch represents the code of Win
 
 ## Build
 
-***
 
 We recommend using Visual Studio to build the solution and generate the Assembly-CSharp.dll file:
 ```
@@ -71,6 +68,5 @@ Now writing...
 
 ## Credit
 
-***
 
 [XiaoHuiHui233](https://github.com/XiaoHuiHui233)
